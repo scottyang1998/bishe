@@ -1,0 +1,10 @@
+test.txt
+*.bak
+*.zip
+~*.*
+bin/
+D[d]ebug/
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
